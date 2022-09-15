@@ -38,7 +38,7 @@
   <div
   class="relative bg-white px-6 mt-5 pt-10 pb-8 shadow-xl ring-1 ring-gray-900/5 sm:mx-auto sm:rounded-lg sm:px-10">
 <div class="mx-auto">
-    <h2 class="text-3xl text-center font-bold leading-tight">Entries</h2>
+    <h2 class="text-3xl text-center font-bold leading-tight">Register Here</h2>
     <div class="divide-y divide-gray-300/50" id="user-entries"></div>
 </div>
 <script src="val.js"></script>
